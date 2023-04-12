@@ -23,7 +23,6 @@ public class UserInputProgram {
 	// nextLine() is used to get the entire sentene of your string
 	String name1 =s.nextLine();
 	
-	
 	System.out.print("enter the character ");
 	String ch = s.nextLine();
 	
